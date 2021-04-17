@@ -1,5 +1,7 @@
-# Stereo-Vision-Depth-Analyzer
+# Stereo-Vision-Scripts
 depth analyzer using the OAK-D stereo camera platform and matplotlib
+
+direction planner using radar plot and stereo vision
 
 
 ## DepthAI setup/installation
@@ -14,7 +16,7 @@ depth analyzer using the OAK-D stereo camera platform and matplotlib
 python pythonscript.py
 ~~~
 
-## Control and Interface keys
+## Control and Interface keys (Depth Analyzer)
 
 ###### use the W, A, S, and D keys to move the ROI box across the window
 ###### use the E key to shrink and the R key to enlarge the ROI box
