@@ -11,7 +11,7 @@ depth analyzer using the OAK-D stereo camera platform and matplotlib
 #### clone the repository in the "examples" directory within the DepthAI platform and run the following line to execute the script 
 #### (note python3 as shown in the documentation will not work on windows)
 ~~~
-python spatial_location_calculator_with_value_plotting.py
+python pythonscript.py
 ~~~
 
 ## Control and Interface keys
