@@ -24,3 +24,9 @@ python examplescript.py
 ###### use the W, A, S, and D keys to move the ROI box across the window
 ###### use the E key to shrink and the R key to enlarge the ROI box
 ###### use the Q key to exit the program window
+
+## Depth Analyzer Demo
+
+<p align="center">
+  <img src="docs/DepthAI_Stereo-Vision_Distance_Analyzer.gif" width="520px">
+</p>
